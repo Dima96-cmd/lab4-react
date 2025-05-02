@@ -1,0 +1,23 @@
+[
+  {
+    "question": "Când a avut loc Marea Unire?",
+    "category": "Istorie",
+    "difficulty": "Ușor",
+    "options": ["1859", "1877", "1918", "1989"],
+    "correctAnswer": "1918"
+  },
+  {
+    "question": "Care este rezultatul lui 12 × 12?",
+    "category": "Matematică",
+    "difficulty": "Ușor",
+    "options": ["124", "122", "144", "132"],
+    "correctAnswer": "144"
+  },
+  {
+    "question": "Cine a scris 'Luceafărul'?",
+    "category": "Literatură",
+    "difficulty": "Mediu",
+    "options": ["Caragiale", "Creangă", "Eminescu", "Sadoveanu"],
+    "correctAnswer": "Eminescu"
+  }
+]
